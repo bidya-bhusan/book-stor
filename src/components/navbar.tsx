@@ -18,7 +18,8 @@ export function Navbar() {
             <header className="bg-gray-800 text-white py-4">
                 <div className="container mx-auto flex justify-between items-center">
                     <div className="text-2xl font-bold">
-                        Bookstore
+                        <a href="/">Bookstore</a>
+                        
                     </div>
                     <nav>
                         <ul className="flex space-x-6">

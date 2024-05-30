@@ -6,5 +6,10 @@ export interface BooksCon {
     id:number,
     price:number,
     category:string,
-    genre: string[];
+    genre: string[],
+    selectedCategory: string;
+
 }
+
+
+  

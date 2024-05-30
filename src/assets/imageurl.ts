@@ -5,7 +5,8 @@ export function imgUrl() {
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIyo0nXgLsP07BSdmdxhfmL76JXrtfB_0dItODVVNjJw&s",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg/330px-The_Great_Gatsby_Cover_1925_Retouched.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Moby-Dick_FE_title_page.jpg/330px-Moby-Dick_FE_title_page.jpg",
-        "https://m.media-amazon.com/images/I/51wEd2FprXL.jpg"
+        "https://m.media-amazon.com/images/I/51wEd2FprXL.jpg",
+        "https://m.media-amazon.com/images/I/91HPG31dTwL._AC_UF350,350_QL50_.jpg"
     ]
     return imageUrl
 }
